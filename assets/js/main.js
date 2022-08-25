@@ -60,6 +60,6 @@
 			document.getElementById('main-cont').style.display = 'block';
 			document.getElementById('preloader').style.display = 'none';
 			document.body.style.background = '#fbf9f8';
-		}, 3000);
+		}, 2500);
 	});
 })();
