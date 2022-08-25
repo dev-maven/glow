@@ -207,7 +207,7 @@ button {
 	}
 
 	100% {
-		font-size: 4rem;
+		font-size: 3rem;
 	}
 }
 
@@ -225,7 +225,7 @@ button {
 	}
 
 	100% {
-		transform: translateX(-10rem) translateY(-10rem);
+		transform: translateX(-25rem) translateY(-25rem);
 	}
 }
 
